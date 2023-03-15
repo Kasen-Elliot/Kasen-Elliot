@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kasen, an <a href="https://linkedin.com/in/Josh">IT Professional <U+1F4BB>
+<h1>Hi, I'm Kasen, an <a href="https://linkedin.com/in/Josh">IT Professional 
 
 <h2> Information Technology Projects:</h2>
 
