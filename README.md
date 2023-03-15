@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Kasen | LinkedIn" width="69px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/kasen-elliot-997b57269/)" />][linkedin]
  
-[linkedin]: https://linkedin.com/in/Kasen 
+[linkedin]:(https://www.linkedin.com/in/kasen-elliot-997b57269/)
