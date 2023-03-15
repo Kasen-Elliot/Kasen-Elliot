@@ -12,6 +12,6 @@
 
   <h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/kasen-elliot-997b57269/" />][linkedin]
+[<img align="left" alt="Kasen | LinkedIn" width="22px" src="https://www.linkedin.com/in/kasen-elliot-997b57269/" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kasen-elliot-997b57269/
