@@ -6,8 +6,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Kasen-Elliot/temp-2/blob/main/README.md)
 - <b>Active Directory</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
-- <b>DNS</b> 
-   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
 - <b>Network File Shares and Permissions</b>
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
 
