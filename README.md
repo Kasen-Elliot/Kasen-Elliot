@@ -4,10 +4,14 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Kasen-Elliot/ticket-lifecycle)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-) 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kasen-Elliot/configure-ad-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-) 
 - <b>Active Directory</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-) 
+ 
 
   <h2>Connect with me on LinkedIn:</h2>
       https://www.linkedin.com/in/kasen-elliot-997b57269/
