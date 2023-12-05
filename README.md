@@ -16,7 +16,7 @@
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
 - <b>Network File Shares and Permissions</b>
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
-   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-) 
 
   <h2>Connect with me on LinkedIn:</h2>
       https://www.linkedin.com/in/kasen-elliot-997b57269/
