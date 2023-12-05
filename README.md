@@ -3,7 +3,7 @@
 <h2> IT Project Examples:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Kasen-Elliot/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples]([https://github.com/Kasen-Elliot/ticket-lifecycle](https://github.com/Kasen-Elliot/temp-2/blob/main/README.md))
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kasen-Elliot/configure-ad-)
  - <b>Active Directory</b>
