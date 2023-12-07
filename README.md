@@ -2,7 +2,6 @@
 
 <h2> IT Project Examples:</h2>
 
-
 <!-- IT Projects -->
 
 <h2 IT Projects</h2>
