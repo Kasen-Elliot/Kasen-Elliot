@@ -10,7 +10,6 @@
 <ul>
 <li><b>osTicketing (Help Desk Ticketing)</b></li>
   <ul>
-    <!-- <a href = "https://github.com/ColtonTrauCC/osticket-prereqs">osTicket: Prerequisites and Installation</a> -->
   <li><a href = "https://github.com/ColtonTrauCC/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
   <li><a href = "https://github.com/ColtonTrauCC/post-install-config">osTicket: Post-Installation Configuration</a></li>
   <li><a href = "https://github.com/ColtonTrauCC/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
