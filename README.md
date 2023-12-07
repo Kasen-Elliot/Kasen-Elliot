@@ -5,7 +5,7 @@
 
 <!-- IT Projects -->
 
-<h2 align = "center">IT Projects</h2>
+<h2 IT Projects</h2>
 
 <ul>
 <li><b>osTicketing (Help Desk Ticketing)</b></li>
