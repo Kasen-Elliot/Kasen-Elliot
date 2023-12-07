@@ -2,12 +2,38 @@
 
 <h2> IT Project Examples:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Kasen-Elliot/temp-2/blob/main/README.md)
-- <b>Active Directory</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
-- <b>Network File Shares and Permissions</b>
-   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kasen-Elliot/azure-network-protocols-)
+
+<!-- IT Projects -->
+
+<h2 align = "center">IT Projects</h2>
+
+<ul>
+<li><b>osTicketing (Help Desk Ticketing)</b></li>
+  <ul>
+    <!-- <a href = "https://github.com/ColtonTrauCC/osticket-prereqs">osTicket: Prerequisites and Installation</a> -->
+  <li><a href = "https://github.com/ColtonTrauCC/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
+  <li><a href = "https://github.com/ColtonTrauCC/post-install-config">osTicket: Post-Installation Configuration</a></li>
+  <li><a href = "https://github.com/ColtonTrauCC/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
+  </ul>
+  
+<li><b>Microsoft Azure</b></li>
+  <ul>
+  <li><a href = "https://github.com/ColtonTrauCC/azure-portal">Basics of Azure Portal</a></li>
+  <li><a href = "https://github.com/ColtonTrauCC/vm-network">Creating a Virtual Machine Network in Azure and Inspecting Network Protocol</a></li>
+  </ul>
+
+<li><b>Acitve Directory</b></li>
+  <ul>
+  <li><a href = "https://github.com/ColtonTrauCC/active-directory">Installing and Configuring Active Directory within Azure VMs</a></li>
+  <li><a href = "https://github.com/ColtonTrauCC/dns">Understanding & Building Intuition for DNS</a></li>
+  <li><a href = "https://github.com/ColtonTrauCC/network-fileshare">Network Fileshare and Permissions in Active Directory</a></li>
+  </ul>
+
+<li><b>Virtual Private Networks (VPN)</b></li>
+<ul>
+  <li><a href = "https://github.com/ColtonTrauCC/vpn">Understanding and Installing Virtual Private Networks</a></li>
+</ul>
+
 
   <h2>Please connect with me on LinkedIn:</h2>
       https://www.linkedin.com/in/kasen-elliot-997b57269/
