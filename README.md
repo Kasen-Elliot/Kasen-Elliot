@@ -11,7 +11,7 @@
   <ul>
   <li><a href = "https://github.com/Kasen-Elliot/osticket-prereqs-">osTicket: Prerequisites and Installation</a></li>
   <li><a href = "https://github.com/Kasen-Elliot/post-install-config-">osTicket: Post-Installation Configuration</a></li>
-  <li><a href = "https://github.com/Kasen-Elliot/osticket-prereqs-">osTicket: Ticket Lifecycle Examples</a></li>
+  <li><a href = "https://github.com/Kasen-Elliot/ticket-lifecycle-">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
 
 <li><b>Microsoft Azure</b></li>
