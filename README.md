@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kasen, an <a href="(https://www.linkedin.com/in/kasen-elliot-997b57269/)"> IT Professional</h1> 
 
-<h2> IT Project Examples:</h2>
+<h2> IT Projects:</h2>
 
 <!-- IT Projects -->
 
